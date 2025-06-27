@@ -21,11 +21,11 @@ It claims to offer script execution, GUIs like Dex, and one-click hacks for begi
 But behind the flashy marketing lies
 
 - frequent detection
-- 
+  
 - dangerous installers
-- 
+  
 - malware flags (including **Wacatac**)
-- 
+  
 - and unstable performance that ruins systems.
   
 
