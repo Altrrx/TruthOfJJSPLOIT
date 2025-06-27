@@ -142,11 +142,11 @@ These tools often have the same core flaws:
 JJSploit is:
 
 - Unstable
-- 
+  
 - Dangerous
-- 
+  
 - Possibly malicious
-- 
+  
 - A tool for funneling users into worse tools
 
 **Do not trust it. Do not use it. Do not recommend it.**
